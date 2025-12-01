@@ -1,0 +1,14 @@
+Sebab (Antecedents),Akibat (Consequents),support,confidence,lift
+Platform_3DS,Cluster_Label_High Sales / Hit,0.011282051282051283,0.16417910447761197,5.928689883913766
+"Score_Category_Score_Mid, Genre_Shooter",Cluster_Label_Massive / Blockbuster,0.012307692307692308,0.1643835616438356,4.713940370668816
+Genre_Shooter,"Score_Category_Score_Mid, Cluster_Label_Massive / Blockbuster",0.012307692307692308,0.09090909090909091,4.6650717703349285
+Score_Category_Score_High,Cluster_Label_Massive / Blockbuster,0.015384615384615385,0.12605042016806725,3.6146811665842815
+Genre_Shooter,Cluster_Label_Massive / Blockbuster,0.014358974358974359,0.10606060606060606,3.0414438502673797
+Score_Category_Score_High,Cluster_Label_High Sales / Hit,0.010256410256410256,0.08403361344537816,3.0345471521942113
+Platform_PS4,"Score_Category_Score_Mid, Cluster_Label_Massive / Blockbuster",0.013333333333333334,0.052208835341365466,2.679137603043754
+"Platform_PS4, Score_Category_Score_Mid",Cluster_Label_Massive / Blockbuster,0.013333333333333334,0.0921985815602837,2.6439299123904885
+Platform_PS4,Cluster_Label_Massive / Blockbuster,0.021538461538461538,0.08433734939759036,2.4184975194897236
+Score_Category_Score_Mid,"Genre_Shooter, Cluster_Label_Massive / Blockbuster",0.012307692307692308,0.022813688212927757,1.5888104291146117
+Score_Category_Score_Mid,"Platform_PS4, Cluster_Label_Massive / Blockbuster",0.013333333333333334,0.024714828897338403,1.1474741988049972
+Score_Category_Score_Mid,Cluster_Label_Massive / Blockbuster,0.019487179487179488,0.036121673003802285,1.035842093491389
+Genre_Action,Cluster_Label_Massive / Blockbuster,0.011282051282051283,0.03559870550161812,1.020845231296402

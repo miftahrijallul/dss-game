@@ -1,0 +1,156 @@
+{
+  "genre_sales": {
+    "Action": 231.85,
+    "Adventure": 10.01,
+    "Fighting": 17.8,
+    "Misc": 19.37,
+    "Platform": 32.03,
+    "Puzzle": 2.2399999999999998,
+    "Racing": 34.04,
+    "Role-Playing": 61.0,
+    "Shooter": 171.01,
+    "Simulation": 12.04,
+    "Sports": 115.08,
+    "Strategy": 7.45
+  },
+  "platform_sales": {
+    "3DS": 40.18,
+    "PC": 34.83,
+    "PS3": 113.92,
+    "PS4": 244.31,
+    "PSV": 13.89,
+    "WiiU": 51.23,
+    "X360": 85.26,
+    "XOne": 130.3
+  },
+  "publisher_sales": {
+    "Electronic Arts": 129.33,
+    "Take-Two Interactive": 99.73,
+    "Activision": 80.49,
+    "Ubisoft": 72.0,
+    "Nintendo": 69.09,
+    "Warner Bros. Interactive Entertainment": 48.58,
+    "Sony Computer Entertainment": 35.69,
+    "Microsoft Game Studios": 26.96,
+    "Namco Bandai Games": 24.77,
+    "Bethesda Softworks": 21.91,
+    "Konami Digital Entertainment": 13.02,
+    "Square Enix": 12.66,
+    "Sony Computer Entertainment Europe": 11.91,
+    "Sega": 9.24,
+    "Deep Silver": 7.79
+  },
+  "yearly_sales": {
+    "2013": 267.99,
+    "2014": 193.14,
+    "2015": 160.39000000000001,
+    "2016": 92.4
+  },
+  "regional_sales": {
+    "NA_Sales": 303.7,
+    "EU_Sales": 275.57000000000005,
+    "JP_Sales": 49.34,
+    "Other_Sales": 85.2
+  },
+  "success_distribution": {
+    "Low": 785,
+    "Moderate": 102,
+    "Hit": 71,
+    "Blockbuster": 17
+  },
+  "genre_avg_scores": {
+    "Critic_Score": {
+      "Action": 71.62783171521036,
+      "Adventure": 72.91304347826087,
+      "Fighting": 69.5952380952381,
+      "Misc": 73.28571428571429,
+      "Platform": 73.78,
+      "Puzzle": 75.57142857142857,
+      "Racing": 71.42372881355932,
+      "Role-Playing": 73.46825396825396,
+      "Shooter": 72.98484848484848,
+      "Simulation": 64.84615384615384,
+      "Sports": 72.2090909090909,
+      "Strategy": 74.57692307692308
+    },
+    "User_Score": {
+      "Action": 6.9362459546925574,
+      "Adventure": 7.665217391304348,
+      "Fighting": 7.0547619047619055,
+      "Misc": 7.080952380952381,
+      "Platform": 6.86,
+      "Puzzle": 7.471428571428571,
+      "Racing": 6.128813559322034,
+      "Role-Playing": 7.376190476190476,
+      "Shooter": 6.362878787878787,
+      "Simulation": 6.119230769230769,
+      "Sports": 5.665454545454546,
+      "Strategy": 6.573076923076924
+    }
+  },
+  "correlation_matrix": {
+    "NA_Sales": {
+      "NA_Sales": 1.0,
+      "EU_Sales": 0.7230785116002765,
+      "JP_Sales": 0.24917314804553578,
+      "Other_Sales": 0.7950046974469861,
+      "Global_Sales": 0.9110203587904553,
+      "Critic_Score": 0.29919475407073587,
+      "User_Score": -0.019275430750453192
+    },
+    "EU_Sales": {
+      "NA_Sales": 0.7230785116002765,
+      "EU_Sales": 1.0,
+      "JP_Sales": 0.27872424620705744,
+      "Other_Sales": 0.9310051102388707,
+      "Global_Sales": 0.9331316938306812,
+      "Critic_Score": 0.27930466017092515,
+      "User_Score": -0.030802241240722814
+    },
+    "JP_Sales": {
+      "NA_Sales": 0.24917314804553578,
+      "EU_Sales": 0.27872424620705744,
+      "JP_Sales": 1.0,
+      "Other_Sales": 0.2724761942589954,
+      "Global_Sales": 0.3798627610671491,
+      "Critic_Score": 0.13179818040038954,
+      "User_Score": 0.19308038872624242
+    },
+    "Other_Sales": {
+      "NA_Sales": 0.7950046974469861,
+      "EU_Sales": 0.9310051102388707,
+      "JP_Sales": 0.2724761942589954,
+      "Other_Sales": 1.0,
+      "Global_Sales": 0.9439861468103661,
+      "Critic_Score": 0.27365932216992556,
+      "User_Score": -0.01063929140153575
+    },
+    "Global_Sales": {
+      "NA_Sales": 0.9110203587904553,
+      "EU_Sales": 0.9331316938306812,
+      "JP_Sales": 0.3798627610671491,
+      "Other_Sales": 0.9439861468103661,
+      "Global_Sales": 1.0,
+      "Critic_Score": 0.31181361307470634,
+      "User_Score": -0.0036958782174443816
+    },
+    "Critic_Score": {
+      "NA_Sales": 0.29919475407073587,
+      "EU_Sales": 0.27930466017092515,
+      "JP_Sales": 0.13179818040038954,
+      "Other_Sales": 0.27365932216992556,
+      "Global_Sales": 0.31181361307470634,
+      "Critic_Score": 1.0,
+      "User_Score": 0.5023543085787738
+    },
+    "User_Score": {
+      "NA_Sales": -0.019275430750453192,
+      "EU_Sales": -0.030802241240722814,
+      "JP_Sales": 0.19308038872624242,
+      "Other_Sales": -0.01063929140153575,
+      "Global_Sales": -0.0036958782174443816,
+      "Critic_Score": 0.5023543085787738,
+      "User_Score": 1.0
+    }
+  }
+}

@@ -1,0 +1,4502 @@
+[
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 21.04,
+    "Critic_Score": 97.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 16.27,
+    "Critic_Score": 97.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 12.61,
+    "Critic_Score": 97.0,
+    "User_Score": 8.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Call of Duty: Ghosts",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 10.25,
+    "Critic_Score": 73.0,
+    "User_Score": 2.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Call of Duty: Ghosts",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 9.36,
+    "Critic_Score": 71.0,
+    "User_Score": 2.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "FIFA 16",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 8.57,
+    "Critic_Score": 82.0,
+    "User_Score": 4.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Call of Duty: Advanced Warfare",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 7.66,
+    "Critic_Score": 83.0,
+    "User_Score": 5.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "FIFA 17",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 7.59,
+    "Critic_Score": 85.0,
+    "User_Score": 5.0,
+    "Cluster": 1
+  },
+  {
+    "Name": "Fallout 4",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Global_Sales": 7.16,
+    "Critic_Score": 87.0,
+    "User_Score": 6.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Mario Kart 8",
+    "Platform": "WiiU",
+    "Genre": "Racing",
+    "Global_Sales": 7.09,
+    "Critic_Score": 88.0,
+    "User_Score": 9.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "FIFA 14",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 6.47,
+    "Critic_Score": 86.0,
+    "User_Score": 4.3,
+    "Cluster": 1
+  },
+  {
+    "Name": "FIFA 15",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 6.08,
+    "Critic_Score": 82.0,
+    "User_Score": 5.7,
+    "Cluster": 1
+  },
+  {
+    "Name": "The Last of Us",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 5.87,
+    "Critic_Score": 95.0,
+    "User_Score": 9.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Destiny",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 5.64,
+    "Critic_Score": 76.0,
+    "User_Score": 6.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 5.48,
+    "Critic_Score": 97.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Uncharted 4: A Thief's End",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 5.38,
+    "Critic_Score": 93.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Call of Duty: Advanced Warfare",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 5.27,
+    "Critic_Score": 81.0,
+    "User_Score": 5.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Uncharted: The Nathan Drake Collection",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 4.62,
+    "Critic_Score": 86.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Luigi's Mansion: Dark Moon",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 4.59,
+    "Critic_Score": 86.0,
+    "User_Score": 8.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Halo 5: Guardians",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 4.48,
+    "Critic_Score": 84.0,
+    "User_Score": 6.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Call of Duty: Infinite Warfare",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 4.46,
+    "Critic_Score": 77.0,
+    "User_Score": 3.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Splatoon",
+    "Platform": "WiiU",
+    "Genre": "Shooter",
+    "Global_Sales": 4.43,
+    "Critic_Score": 81.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Super Mario 3D World",
+    "Platform": "WiiU",
+    "Genre": "Platform",
+    "Global_Sales": 4.32,
+    "Critic_Score": 93.0,
+    "User_Score": 9.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Fallout 4",
+    "Platform": "XOne",
+    "Genre": "Role-Playing",
+    "Global_Sales": 4.22,
+    "Critic_Score": 88.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "FIFA 14",
+    "Platform": "X360",
+    "Genre": "Sports",
+    "Global_Sales": 4.22,
+    "Critic_Score": 84.0,
+    "User_Score": 4.2,
+    "Cluster": 1
+  },
+  {
+    "Name": "Battlefield 1",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 4.08,
+    "Critic_Score": 88.0,
+    "User_Score": 8.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Watch Dogs",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 4.05,
+    "Critic_Score": 80.0,
+    "User_Score": 6.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Far Cry 4",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 4.04,
+    "Critic_Score": 85.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Witcher 3: Wild Hunt",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Global_Sales": 3.97,
+    "Critic_Score": 92.0,
+    "User_Score": 9.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed: Unity",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 3.96,
+    "Critic_Score": 70.0,
+    "User_Score": 4.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Batman: Arkham Knight",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 3.95,
+    "Critic_Score": 87.0,
+    "User_Score": 7.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Monster Hunter 4 Ultimate",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 3.89,
+    "Critic_Score": 86.0,
+    "User_Score": 8.7,
+    "Cluster": 0
+  },
+  {
+    "Name": "NBA 2K16",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 3.88,
+    "Critic_Score": 87.0,
+    "User_Score": 6.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Call of Duty: Ghosts",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 3.83,
+    "Critic_Score": 78.0,
+    "User_Score": 3.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Tom Clancy's The Division",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 3.8,
+    "Critic_Score": 80.0,
+    "User_Score": 7.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed IV: Black Flag",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 3.71,
+    "Critic_Score": 88.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Battlefield 4",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 3.59,
+    "Critic_Score": 85.0,
+    "User_Score": 6.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed: Unity",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 3.5,
+    "Critic_Score": 72.0,
+    "User_Score": 4.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Battlefield 4",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 3.49,
+    "Critic_Score": 80.0,
+    "User_Score": 5.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Battlefield 4",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 3.48,
+    "Critic_Score": 79.0,
+    "User_Score": 5.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Metal Gear Solid V: The Phantom Pain",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 3.41,
+    "Critic_Score": 93.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed Syndicate",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 3.39,
+    "Critic_Score": 76.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Destiny",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 3.37,
+    "Critic_Score": 75.0,
+    "User_Score": 5.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed IV: Black Flag",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 3.3,
+    "Critic_Score": 86.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Gears of War: Ultimate Edition",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 3.28,
+    "Critic_Score": 82.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "FIFA 16",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 3.25,
+    "Critic_Score": 84.0,
+    "User_Score": 4.4,
+    "Cluster": 1
+  },
+  {
+    "Name": "Madden NFL 16",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 3.24,
+    "Critic_Score": 83.0,
+    "User_Score": 5.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Gran Turismo 6",
+    "Platform": "PS3",
+    "Genre": "Racing",
+    "Global_Sales": 3.23,
+    "Critic_Score": 81.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Halo: The Master Chief Collection",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 3.23,
+    "Critic_Score": 85.0,
+    "User_Score": 7.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Super Mario Maker",
+    "Platform": "WiiU",
+    "Genre": "Platform",
+    "Global_Sales": 3.21,
+    "Critic_Score": 88.0,
+    "User_Score": 8.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Legend of Zelda: A Link Between Worlds",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 3.1,
+    "Critic_Score": 91.0,
+    "User_Score": 8.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Animal Crossing: Happy Home Designer",
+    "Platform": "3DS",
+    "Genre": "Simulation",
+    "Global_Sales": 3.05,
+    "Critic_Score": 66.0,
+    "User_Score": 6.9,
+    "Cluster": 0
+  },
+  {
+    "Name": "The Sims 4",
+    "Platform": "PC",
+    "Genre": "Simulation",
+    "Global_Sales": 3.05,
+    "Critic_Score": 70.0,
+    "User_Score": 3.9,
+    "Cluster": 2
+  },
+  {
+    "Name": "FIFA 14",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 3.01,
+    "Critic_Score": 87.0,
+    "User_Score": 6.3,
+    "Cluster": 1
+  },
+  {
+    "Name": "Middle-Earth: Shadow of Mordor",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 2.96,
+    "Critic_Score": 84.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Titanfall",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 2.95,
+    "Critic_Score": 86.0,
+    "User_Score": 6.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Call of Duty: Ghosts",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 2.92,
+    "Critic_Score": 78.0,
+    "User_Score": 4.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed IV: Black Flag",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 2.85,
+    "Critic_Score": 83.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "inFAMOUS: Second Son",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 2.79,
+    "Critic_Score": 80.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Mortal Kombat X",
+    "Platform": "PS4",
+    "Genre": "Fighting",
+    "Global_Sales": 2.78,
+    "Critic_Score": 83.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Killzone: Shadow Fall",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 2.69,
+    "Critic_Score": 73.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "FIFA 17",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 2.65,
+    "Critic_Score": 84.0,
+    "User_Score": 5.5,
+    "Cluster": 1
+  },
+  {
+    "Name": "NBA 2K14",
+    "Platform": "X360",
+    "Genre": "Sports",
+    "Global_Sales": 2.52,
+    "Critic_Score": 87.0,
+    "User_Score": 4.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Bloodborne",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 2.48,
+    "Critic_Score": 92.0,
+    "User_Score": 8.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "NBA 2K15",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 2.45,
+    "Critic_Score": 83.0,
+    "User_Score": 7.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Call of Duty: Infinite Warfare",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 2.42,
+    "Critic_Score": 78.0,
+    "User_Score": 3.1,
+    "Cluster": 2
+  },
+  {
+    "Name": "Madden NFL 16",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 2.42,
+    "Critic_Score": 84.0,
+    "User_Score": 6.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Legend of Zelda: Majora's Mask 3D",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 2.34,
+    "Critic_Score": 89.0,
+    "User_Score": 9.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "NBA 2K16",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 2.34,
+    "Critic_Score": 86.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Batman: Arkham Origins",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 2.29,
+    "Critic_Score": 76.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Far Cry: Primal",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 2.26,
+    "Critic_Score": 76.0,
+    "User_Score": 6.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Battlefield 1",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 2.25,
+    "Critic_Score": 87.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "God of War: Ascension",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 2.25,
+    "Critic_Score": 80.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "New Super Luigi U",
+    "Platform": "WiiU",
+    "Genre": "Platform",
+    "Global_Sales": 2.24,
+    "Critic_Score": 77.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Madden NFL 25",
+    "Platform": "X360",
+    "Genre": "Sports",
+    "Global_Sales": 2.23,
+    "Critic_Score": 80.0,
+    "User_Score": 5.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO Marvel Super Heroes",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 2.22,
+    "Critic_Score": 80.0,
+    "User_Score": 7.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Tom Clancy's Rainbow Six: Siege",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 2.21,
+    "Critic_Score": 73.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Forza Motorsport 5",
+    "Platform": "XOne",
+    "Genre": "Racing",
+    "Global_Sales": 2.2,
+    "Critic_Score": 79.0,
+    "User_Score": 5.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Madden NFL 15",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 2.19,
+    "Critic_Score": 81.0,
+    "User_Score": 6.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "FIFA 15",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 2.18,
+    "Critic_Score": 82.0,
+    "User_Score": 5.4,
+    "Cluster": 1
+  },
+  {
+    "Name": "Tom Clancy's The Division",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 2.16,
+    "Critic_Score": 80.0,
+    "User_Score": 6.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Overwatch",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 2.14,
+    "Critic_Score": 90.0,
+    "User_Score": 6.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "NBA 2K14",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 2.11,
+    "Critic_Score": 84.0,
+    "User_Score": 4.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Battlefield: Hardline",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 2.1,
+    "Critic_Score": 73.0,
+    "User_Score": 5.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dying Light",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 2.09,
+    "Critic_Score": 74.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "DriveClub",
+    "Platform": "PS4",
+    "Genre": "Racing",
+    "Global_Sales": 2.07,
+    "Critic_Score": 71.0,
+    "User_Score": 6.1,
+    "Cluster": 1
+  },
+  {
+    "Name": "Battlefield 4",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 2.02,
+    "Critic_Score": 81.0,
+    "User_Score": 6.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dragon Age: Inquisition",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Global_Sales": 2.01,
+    "Critic_Score": 89.0,
+    "User_Score": 7.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Need for Speed Rivals",
+    "Platform": "PS4",
+    "Genre": "Racing",
+    "Global_Sales": 1.98,
+    "Critic_Score": 80.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "BioShock Infinite",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 1.93,
+    "Critic_Score": 93.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Destiny: The Taken King",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 1.93,
+    "Critic_Score": 86.0,
+    "User_Score": 6.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Mario Party: Island Tour",
+    "Platform": "3DS",
+    "Genre": "Misc",
+    "Global_Sales": 1.92,
+    "Critic_Score": 57.0,
+    "User_Score": 6.3,
+    "Cluster": 2
+  },
+  {
+    "Name": "Diablo III",
+    "Platform": "PS3",
+    "Genre": "Role-Playing",
+    "Global_Sales": 1.91,
+    "Critic_Score": 86.0,
+    "User_Score": 6.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "LittleBigPlanet 3",
+    "Platform": "PS4",
+    "Genre": "Platform",
+    "Global_Sales": 1.91,
+    "Critic_Score": 79.0,
+    "User_Score": 7.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Batman: Arkham Origins",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 1.88,
+    "Critic_Score": 74.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "NBA 2K17",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 1.88,
+    "Critic_Score": 88.0,
+    "User_Score": 6.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Madden NFL 25",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 1.87,
+    "Critic_Score": 76.0,
+    "User_Score": 4.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Just Cause 3",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 1.86,
+    "Critic_Score": 73.0,
+    "User_Score": 6.5,
+    "Cluster": 1
+  },
+  {
+    "Name": "LEGO Marvel Super Heroes",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 1.84,
+    "Critic_Score": 82.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Kirby: Triple Deluxe",
+    "Platform": "3DS",
+    "Genre": "Platform",
+    "Global_Sales": 1.83,
+    "Critic_Score": 80.0,
+    "User_Score": 8.8,
+    "Cluster": 0
+  },
+  {
+    "Name": "Mafia III",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 1.81,
+    "Critic_Score": 68.0,
+    "User_Score": 5.1,
+    "Cluster": 1
+  },
+  {
+    "Name": "Forza Motorsport 6",
+    "Platform": "XOne",
+    "Genre": "Racing",
+    "Global_Sales": 1.8,
+    "Critic_Score": 87.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Evil Within",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 1.79,
+    "Critic_Score": 75.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Madden NFL 17",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 1.75,
+    "Critic_Score": 82.0,
+    "User_Score": 4.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Wii Party U",
+    "Platform": "WiiU",
+    "Genre": "Misc",
+    "Global_Sales": 1.75,
+    "Critic_Score": 65.0,
+    "User_Score": 6.8,
+    "Cluster": 0
+  },
+  {
+    "Name": "The Order: 1886",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 1.74,
+    "Critic_Score": 63.0,
+    "User_Score": 6.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Knack",
+    "Platform": "PS4",
+    "Genre": "Platform",
+    "Global_Sales": 1.73,
+    "Critic_Score": 54.0,
+    "User_Score": 6.5,
+    "Cluster": 2
+  },
+  {
+    "Name": "The Crew",
+    "Platform": "PS4",
+    "Genre": "Racing",
+    "Global_Sales": 1.72,
+    "Critic_Score": 61.0,
+    "User_Score": 5.4,
+    "Cluster": 1
+  },
+  {
+    "Name": "NBA 2K15",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 1.72,
+    "Critic_Score": 82.0,
+    "User_Score": 6.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "No Man's Sky",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 1.7,
+    "Critic_Score": 71.0,
+    "User_Score": 4.5,
+    "Cluster": 2
+  },
+  {
+    "Name": "BioShock Infinite",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 1.69,
+    "Critic_Score": 94.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "StarCraft II: Heart of the Swarm",
+    "Platform": "PC",
+    "Genre": "Strategy",
+    "Global_Sales": 1.67,
+    "Critic_Score": 86.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Until Dawn",
+    "Platform": "PS4",
+    "Genre": "Adventure",
+    "Global_Sales": 1.66,
+    "Critic_Score": 79.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Saints Row IV",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 1.66,
+    "Critic_Score": 81.0,
+    "User_Score": 6.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dark Souls III",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Global_Sales": 1.65,
+    "Critic_Score": 89.0,
+    "User_Score": 8.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Far Cry 4",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 1.63,
+    "Critic_Score": 82.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Beyond: Two Souls",
+    "Platform": "PS3",
+    "Genre": "Adventure",
+    "Global_Sales": 1.63,
+    "Critic_Score": 70.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO Marvel Super Heroes",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 1.62,
+    "Critic_Score": 83.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Mario Party 10",
+    "Platform": "WiiU",
+    "Genre": "Misc",
+    "Global_Sales": 1.58,
+    "Critic_Score": 66.0,
+    "User_Score": 6.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dead Rising 3",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 1.57,
+    "Critic_Score": 78.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Gears of War: Judgment",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 1.57,
+    "Critic_Score": 79.0,
+    "User_Score": 5.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Watch Dogs",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 1.57,
+    "Critic_Score": 78.0,
+    "User_Score": 5.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Madden NFL 15",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 1.57,
+    "Critic_Score": 80.0,
+    "User_Score": 6.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Wolfenstein: The New Order",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 1.55,
+    "Critic_Score": 79.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Donkey Kong Country: Tropical Freeze",
+    "Platform": "WiiU",
+    "Genre": "Platform",
+    "Global_Sales": 1.52,
+    "Critic_Score": 83.0,
+    "User_Score": 8.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Batman: Arkham Knight",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 1.49,
+    "Critic_Score": 85.0,
+    "User_Score": 6.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "NBA 2K14",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 1.45,
+    "Critic_Score": 85.0,
+    "User_Score": 6.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Disney Infinity",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 1.44,
+    "Critic_Score": 74.0,
+    "User_Score": 6.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "SimCity (2013)",
+    "Platform": "PC",
+    "Genre": "Simulation",
+    "Global_Sales": 1.42,
+    "Critic_Score": 64.0,
+    "User_Score": 2.2,
+    "Cluster": 2
+  },
+  {
+    "Name": "Metal Gear Rising: Revengeance",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 1.42,
+    "Critic_Score": 80.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Diablo III",
+    "Platform": "X360",
+    "Genre": "Role-Playing",
+    "Global_Sales": 1.41,
+    "Critic_Score": 87.0,
+    "User_Score": 6.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Forza Horizon 2",
+    "Platform": "XOne",
+    "Genre": "Racing",
+    "Global_Sales": 1.4,
+    "Critic_Score": 86.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Injustice: Gods Among Us",
+    "Platform": "X360",
+    "Genre": "Fighting",
+    "Global_Sales": 1.38,
+    "Critic_Score": 81.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Yoshi's New Island",
+    "Platform": "3DS",
+    "Genre": "Platform",
+    "Global_Sales": 1.38,
+    "Critic_Score": 64.0,
+    "User_Score": 6.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Ryse: Son of Rome",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 1.38,
+    "Critic_Score": 60.0,
+    "User_Score": 6.1,
+    "Cluster": 2
+  },
+  {
+    "Name": "Mortal Kombat X",
+    "Platform": "XOne",
+    "Genre": "Fighting",
+    "Global_Sales": 1.38,
+    "Critic_Score": 86.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Rise of the Tomb Raider",
+    "Platform": "XOne",
+    "Genre": "Adventure",
+    "Global_Sales": 1.38,
+    "Critic_Score": 86.0,
+    "User_Score": 8.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Titanfall",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 1.36,
+    "Critic_Score": 83.0,
+    "User_Score": 5.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Middle-Earth: Shadow of Mordor",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 1.35,
+    "Critic_Score": 87.0,
+    "User_Score": 8.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Battlefield 4",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 1.35,
+    "Critic_Score": 81.0,
+    "User_Score": 6.0,
+    "Cluster": 1
+  },
+  {
+    "Name": "Gears of War 4",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 1.35,
+    "Critic_Score": 84.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Tom Clancy's Rainbow Six: Siege",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 1.34,
+    "Critic_Score": 74.0,
+    "User_Score": 6.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Skylanders SWAP Force",
+    "Platform": "X360",
+    "Genre": "Platform",
+    "Global_Sales": 1.32,
+    "Critic_Score": 83.0,
+    "User_Score": 5.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Witcher 3: Wild Hunt",
+    "Platform": "XOne",
+    "Genre": "Role-Playing",
+    "Global_Sales": 1.31,
+    "Critic_Score": 91.0,
+    "User_Score": 9.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Yoshi's Woolly World",
+    "Platform": "WiiU",
+    "Genre": "Platform",
+    "Global_Sales": 1.3,
+    "Critic_Score": 78.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed Syndicate",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 1.3,
+    "Critic_Score": 78.0,
+    "User_Score": 6.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dying Light",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 1.29,
+    "Critic_Score": 74.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Fallout 4",
+    "Platform": "PC",
+    "Genre": "Role-Playing",
+    "Global_Sales": 1.29,
+    "Critic_Score": 84.0,
+    "User_Score": 5.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed: Rogue",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 1.29,
+    "Critic_Score": 72.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Elder Scrolls Online",
+    "Platform": "XOne",
+    "Genre": "Role-Playing",
+    "Global_Sales": 1.28,
+    "Critic_Score": 77.0,
+    "User_Score": 8.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "The LEGO Movie Videogame",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 1.27,
+    "Critic_Score": 69.0,
+    "User_Score": 7.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dark Souls II",
+    "Platform": "PS3",
+    "Genre": "Role-Playing",
+    "Global_Sales": 1.27,
+    "Critic_Score": 91.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Metal Gear Solid V: Ground Zeroes",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 1.27,
+    "Critic_Score": 75.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Final Fantasy X / X-2 HD Remaster",
+    "Platform": "PS3",
+    "Genre": "Role-Playing",
+    "Global_Sales": 1.27,
+    "Critic_Score": 85.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Need for Speed Rivals",
+    "Platform": "PS3",
+    "Genre": "Racing",
+    "Global_Sales": 1.27,
+    "Critic_Score": 80.0,
+    "User_Score": 4.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "Saints Row IV",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 1.25,
+    "Critic_Score": 76.0,
+    "User_Score": 6.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Pokemon Super Mystery Dungeon",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 1.25,
+    "Critic_Score": 69.0,
+    "User_Score": 8.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Madden NFL 17",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 1.23,
+    "Critic_Score": 83.0,
+    "User_Score": 5.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Hyrule Warriors",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 1.23,
+    "Critic_Score": 76.0,
+    "User_Score": 8.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "WWE 2K16",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 1.21,
+    "Critic_Score": 73.0,
+    "User_Score": 7.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Battlefield: Hardline",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 1.21,
+    "Critic_Score": 71.0,
+    "User_Score": 5.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Captain Toad: Treasure Tracker",
+    "Platform": "WiiU",
+    "Genre": "Puzzle",
+    "Global_Sales": 1.19,
+    "Critic_Score": 81.0,
+    "User_Score": 8.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Destiny: The Taken King",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 1.19,
+    "Critic_Score": 89.0,
+    "User_Score": 5.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Injustice: Gods Among Us",
+    "Platform": "PS3",
+    "Genre": "Fighting",
+    "Global_Sales": 1.18,
+    "Critic_Score": 78.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Platform": "PC",
+    "Genre": "Action",
+    "Global_Sales": 1.17,
+    "Critic_Score": 96.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "FIFA 14",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 1.16,
+    "Critic_Score": 88.0,
+    "User_Score": 5.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "WWE 2K15",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 1.15,
+    "Critic_Score": 62.0,
+    "User_Score": 5.1,
+    "Cluster": 2
+  },
+  {
+    "Name": "WWE 2K14",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 1.14,
+    "Critic_Score": 74.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Sunset Overdrive",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 1.14,
+    "Critic_Score": 81.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Naruto Shippuden: Ultimate Ninja Storm 4",
+    "Platform": "PS4",
+    "Genre": "Fighting",
+    "Global_Sales": 1.14,
+    "Critic_Score": 79.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Watch Dogs 2",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 1.13,
+    "Critic_Score": 83.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Alien: Isolation",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 1.13,
+    "Critic_Score": 79.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Legend of Zelda: Tri Force Heroes",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 1.12,
+    "Critic_Score": 73.0,
+    "User_Score": 7.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Pikmin 3",
+    "Platform": "WiiU",
+    "Genre": "Strategy",
+    "Global_Sales": 1.11,
+    "Critic_Score": 87.0,
+    "User_Score": 8.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "WWE 2K14",
+    "Platform": "X360",
+    "Genre": "Sports",
+    "Global_Sales": 1.11,
+    "Critic_Score": 75.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dragon Ball: XenoVerse",
+    "Platform": "PS4",
+    "Genre": "Fighting",
+    "Global_Sales": 1.11,
+    "Critic_Score": 69.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO City Undercover",
+    "Platform": "WiiU",
+    "Genre": "Platform",
+    "Global_Sales": 1.1,
+    "Critic_Score": 80.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "NCAA Football 14",
+    "Platform": "X360",
+    "Genre": "Sports",
+    "Global_Sales": 1.09,
+    "Critic_Score": 77.0,
+    "User_Score": 5.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Project CARS",
+    "Platform": "PS4",
+    "Genre": "Racing",
+    "Global_Sales": 1.09,
+    "Critic_Score": 83.0,
+    "User_Score": 6.6,
+    "Cluster": 1
+  },
+  {
+    "Name": "Forza Horizon 3",
+    "Platform": "XOne",
+    "Genre": "Racing",
+    "Global_Sales": 1.08,
+    "Critic_Score": 91.0,
+    "User_Score": 7.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Plants vs. Zombies: Garden Warfare",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 1.08,
+    "Critic_Score": 69.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Lightning Returns: Final Fantasy XIII",
+    "Platform": "PS3",
+    "Genre": "Role-Playing",
+    "Global_Sales": 1.07,
+    "Critic_Score": 66.0,
+    "User_Score": 5.9,
+    "Cluster": 0
+  },
+  {
+    "Name": "Overwatch",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 1.06,
+    "Critic_Score": 91.0,
+    "User_Score": 5.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "EA Sports UFC",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 1.05,
+    "Critic_Score": 70.0,
+    "User_Score": 6.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Legend of Zelda: Twilight Princess HD",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 1.03,
+    "Critic_Score": 86.0,
+    "User_Score": 8.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "NBA 2K17",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 1.02,
+    "Critic_Score": 90.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Skylanders SWAP Force",
+    "Platform": "PS3",
+    "Genre": "Platform",
+    "Global_Sales": 1.02,
+    "Critic_Score": 83.0,
+    "User_Score": 5.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed: Rogue",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 1.01,
+    "Critic_Score": 72.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Rayman Legends",
+    "Platform": "PS4",
+    "Genre": "Platform",
+    "Global_Sales": 1.01,
+    "Critic_Score": 90.0,
+    "User_Score": 8.5,
+    "Cluster": 1
+  },
+  {
+    "Name": "Pokken Tournament",
+    "Platform": "WiiU",
+    "Genre": "Fighting",
+    "Global_Sales": 1.01,
+    "Critic_Score": 76.0,
+    "User_Score": 8.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Just Dance 2014",
+    "Platform": "X360",
+    "Genre": "Misc",
+    "Global_Sales": 0.99,
+    "Critic_Score": 79.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dead Space 3",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 0.98,
+    "Critic_Score": 78.0,
+    "User_Score": 6.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Tom Clancy's Splinter Cell: Blacklist",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 0.98,
+    "Critic_Score": 82.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Disney Infinity",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.97,
+    "Critic_Score": 75.0,
+    "User_Score": 5.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Evolve",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 0.96,
+    "Critic_Score": 76.0,
+    "User_Score": 4.3,
+    "Cluster": 2
+  },
+  {
+    "Name": "Dead Space 3",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.96,
+    "Critic_Score": 76.0,
+    "User_Score": 6.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Pro Evolution Soccer 2014",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.95,
+    "Critic_Score": 78.0,
+    "User_Score": 4.1,
+    "Cluster": 0
+  },
+  {
+    "Name": "Tom Clancy's Splinter Cell: Blacklist",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.94,
+    "Critic_Score": 84.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Naruto Shippuden: Ultimate Ninja Storm 3",
+    "Platform": "PS3",
+    "Genre": "Fighting",
+    "Global_Sales": 0.93,
+    "Critic_Score": 77.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "EA Sports UFC 2",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.93,
+    "Critic_Score": 79.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dragon Age: Inquisition",
+    "Platform": "XOne",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.93,
+    "Critic_Score": 85.0,
+    "User_Score": 6.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Kirby: Planet Robobot",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 0.93,
+    "Critic_Score": 81.0,
+    "User_Score": 8.7,
+    "Cluster": 0
+  },
+  {
+    "Name": "Lego Batman 3: Beyond Gotham",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.93,
+    "Critic_Score": 73.0,
+    "User_Score": 7.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "The LEGO Movie Videogame",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.93,
+    "Critic_Score": 80.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Disney Magical World",
+    "Platform": "3DS",
+    "Genre": "Adventure",
+    "Global_Sales": 0.92,
+    "Critic_Score": 71.0,
+    "User_Score": 7.5,
+    "Cluster": 0
+  },
+  {
+    "Name": "MLB 15: The Show",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.92,
+    "Critic_Score": 80.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "South Park: The Stick of Truth",
+    "Platform": "PS3",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.92,
+    "Critic_Score": 85.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "South Park: The Stick of Truth",
+    "Platform": "X360",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.92,
+    "Critic_Score": 82.0,
+    "User_Score": 8.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "NBA 2K14",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.91,
+    "Critic_Score": 86.0,
+    "User_Score": 5.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Street Fighter V",
+    "Platform": "PS4",
+    "Genre": "Fighting",
+    "Global_Sales": 0.9,
+    "Critic_Score": 77.0,
+    "User_Score": 3.4,
+    "Cluster": 2
+  },
+  {
+    "Name": "Just Cause 3",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.9,
+    "Critic_Score": 71.0,
+    "User_Score": 7.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Crysis 3",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 0.9,
+    "Critic_Score": 76.0,
+    "User_Score": 6.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO Jurassic World",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.9,
+    "Critic_Score": 70.0,
+    "User_Score": 7.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Elder Scrolls Online",
+    "Platform": "PC",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.9,
+    "Critic_Score": 71.0,
+    "User_Score": 5.7,
+    "Cluster": 1
+  },
+  {
+    "Name": "Madden NFL 25",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.9,
+    "Critic_Score": 74.0,
+    "User_Score": 5.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO Marvel Super Heroes",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 0.9,
+    "Critic_Score": 61.0,
+    "User_Score": 5.2,
+    "Cluster": 2
+  },
+  {
+    "Name": "Far Cry: Primal",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.88,
+    "Critic_Score": 77.0,
+    "User_Score": 6.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Borderlands: The Handsome Collection",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 0.88,
+    "Critic_Score": 82.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Crysis 3",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 0.87,
+    "Critic_Score": 77.0,
+    "User_Score": 6.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Guitar Hero Live",
+    "Platform": "PS4",
+    "Genre": "Misc",
+    "Global_Sales": 0.86,
+    "Critic_Score": 80.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Wii Fit U",
+    "Platform": "WiiU",
+    "Genre": "Sports",
+    "Global_Sales": 0.85,
+    "Critic_Score": 72.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Xenoblade Chronicles X",
+    "Platform": "WiiU",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.84,
+    "Critic_Score": 84.0,
+    "User_Score": 8.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "NCAA Football 14",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 0.84,
+    "Critic_Score": 77.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Madden NFL 25",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.81,
+    "Critic_Score": 73.0,
+    "User_Score": 5.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Killzone: Mercenary",
+    "Platform": "PSV",
+    "Genre": "Shooter",
+    "Global_Sales": 0.8,
+    "Critic_Score": 78.0,
+    "User_Score": 8.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Final Fantasy X / X-2 HD Remaster",
+    "Platform": "PSV",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.8,
+    "Critic_Score": 86.0,
+    "User_Score": 8.5,
+    "Cluster": 0
+  },
+  {
+    "Name": "DmC: Devil May Cry",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.79,
+    "Critic_Score": 85.0,
+    "User_Score": 5.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Need for Speed Rivals",
+    "Platform": "X360",
+    "Genre": "Racing",
+    "Global_Sales": 0.79,
+    "Critic_Score": 76.0,
+    "User_Score": 5.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Pro Evolution Soccer 2016",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.79,
+    "Critic_Score": 87.0,
+    "User_Score": 7.1,
+    "Cluster": 1
+  },
+  {
+    "Name": "Rare Replay",
+    "Platform": "XOne",
+    "Genre": "Misc",
+    "Global_Sales": 0.79,
+    "Critic_Score": 84.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "WWE 2K15",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 0.78,
+    "Critic_Score": 55.0,
+    "User_Score": 3.1,
+    "Cluster": 2
+  },
+  {
+    "Name": "Dead Island: Riptide",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 0.78,
+    "Critic_Score": 57.0,
+    "User_Score": 6.3,
+    "Cluster": 2
+  },
+  {
+    "Name": "Aliens: Colonial Marines",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 0.77,
+    "Critic_Score": 48.0,
+    "User_Score": 3.8,
+    "Cluster": 2
+  },
+  {
+    "Name": "Bayonetta 2",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.76,
+    "Critic_Score": 91.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Professor Layton and the Azran Legacy",
+    "Platform": "3DS",
+    "Genre": "Puzzle",
+    "Global_Sales": 0.75,
+    "Critic_Score": 81.0,
+    "User_Score": 7.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "Titanfall 2",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 0.75,
+    "Critic_Score": 89.0,
+    "User_Score": 8.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Metal Gear Solid V: The Phantom Pain",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.75,
+    "Critic_Score": 95.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Pro Evolution Soccer 2015",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.75,
+    "Critic_Score": 82.0,
+    "User_Score": 7.2,
+    "Cluster": 1
+  },
+  {
+    "Name": "Dark Souls II",
+    "Platform": "X360",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.74,
+    "Critic_Score": 91.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Resident Evil: Revelations",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.74,
+    "Critic_Score": 74.0,
+    "User_Score": 7.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "MLB 13: The Show",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 0.74,
+    "Critic_Score": 87.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO Marvel Super Heroes",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.74,
+    "Critic_Score": 82.0,
+    "User_Score": 8.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dragon Age: Inquisition",
+    "Platform": "PC",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.73,
+    "Critic_Score": 85.0,
+    "User_Score": 5.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO Marvel's Avengers",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.73,
+    "Critic_Score": 71.0,
+    "User_Score": 7.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Just Dance 2015",
+    "Platform": "WiiU",
+    "Genre": "Misc",
+    "Global_Sales": 0.73,
+    "Critic_Score": 75.0,
+    "User_Score": 6.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO Dimensions",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.73,
+    "Critic_Score": 80.0,
+    "User_Score": 7.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Total War: Rome II",
+    "Platform": "PC",
+    "Genre": "Strategy",
+    "Global_Sales": 0.72,
+    "Critic_Score": 76.0,
+    "User_Score": 4.2,
+    "Cluster": 1
+  },
+  {
+    "Name": "Persona Q: Shadow of the Labyrinth",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.72,
+    "Critic_Score": 83.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "MLB 14: The Show",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.72,
+    "Critic_Score": 83.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Borderlands: The Pre-Sequel",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 0.72,
+    "Critic_Score": 74.0,
+    "User_Score": 6.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Witcher 3: Wild Hunt",
+    "Platform": "PC",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.72,
+    "Critic_Score": 93.0,
+    "User_Score": 9.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dragon Ball: Xenoverse 2",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.71,
+    "Critic_Score": 73.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Skylanders: Trap Team",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.7,
+    "Critic_Score": 86.0,
+    "User_Score": 7.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Lego Star Wars: The Force Awakens",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.7,
+    "Critic_Score": 78.0,
+    "User_Score": 7.5,
+    "Cluster": 1
+  },
+  {
+    "Name": "Plants vs. Zombies: Garden Warfare",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 0.69,
+    "Critic_Score": 76.0,
+    "User_Score": 7.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Need for Speed Rivals",
+    "Platform": "XOne",
+    "Genre": "Racing",
+    "Global_Sales": 0.69,
+    "Critic_Score": 75.0,
+    "User_Score": 5.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Sniper Elite 3",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 0.68,
+    "Critic_Score": 67.0,
+    "User_Score": 7.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Wolfenstein: The New Order",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 0.68,
+    "Critic_Score": 79.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Evil Within",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.67,
+    "Critic_Score": 79.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "The LEGO Movie Videogame",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.67,
+    "Critic_Score": 71.0,
+    "User_Score": 7.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Terraria",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 0.67,
+    "Critic_Score": 81.0,
+    "User_Score": 7.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "F1 2015",
+    "Platform": "PS4",
+    "Genre": "Racing",
+    "Global_Sales": 0.66,
+    "Critic_Score": 65.0,
+    "User_Score": 6.3,
+    "Cluster": 1
+  },
+  {
+    "Name": "Rayman Legends",
+    "Platform": "WiiU",
+    "Genre": "Platform",
+    "Global_Sales": 0.66,
+    "Critic_Score": 92.0,
+    "User_Score": 8.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "BioShock Infinite",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 0.66,
+    "Critic_Score": 94.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "One Piece: Pirate Warriors 2",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.66,
+    "Critic_Score": 71.0,
+    "User_Score": 7.8,
+    "Cluster": 0
+  },
+  {
+    "Name": "LEGO Jurassic World",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.65,
+    "Critic_Score": 70.0,
+    "User_Score": 6.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Freedom Wars",
+    "Platform": "PSV",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.65,
+    "Critic_Score": 73.0,
+    "User_Score": 8.3,
+    "Cluster": 0
+  },
+  {
+    "Name": "Farming Simulator 17",
+    "Platform": "PC",
+    "Genre": "Simulation",
+    "Global_Sales": 0.65,
+    "Critic_Score": 64.0,
+    "User_Score": 8.0,
+    "Cluster": 1
+  },
+  {
+    "Name": "Borderlands 2",
+    "Platform": "PSV",
+    "Genre": "Shooter",
+    "Global_Sales": 0.64,
+    "Critic_Score": 64.0,
+    "User_Score": 7.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed IV: Black Flag",
+    "Platform": "PC",
+    "Genre": "Action",
+    "Global_Sales": 0.64,
+    "Critic_Score": 84.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "The LEGO Movie Videogame",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.64,
+    "Critic_Score": 68.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "WWE 2K15",
+    "Platform": "X360",
+    "Genre": "Sports",
+    "Global_Sales": 0.64,
+    "Critic_Score": 50.0,
+    "User_Score": 4.0,
+    "Cluster": 2
+  },
+  {
+    "Name": "Football Manager 2014",
+    "Platform": "PC",
+    "Genre": "Sports",
+    "Global_Sales": 0.64,
+    "Critic_Score": 85.0,
+    "User_Score": 5.5,
+    "Cluster": 1
+  },
+  {
+    "Name": "Dishonored 2",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.64,
+    "Critic_Score": 88.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Crew",
+    "Platform": "XOne",
+    "Genre": "Racing",
+    "Global_Sales": 0.64,
+    "Critic_Score": 64.0,
+    "User_Score": 5.9,
+    "Cluster": 2
+  },
+  {
+    "Name": "Evolve",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 0.64,
+    "Critic_Score": 74.0,
+    "User_Score": 5.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Far Cry 4",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 0.63,
+    "Critic_Score": 80.0,
+    "User_Score": 6.7,
+    "Cluster": 1
+  },
+  {
+    "Name": "The Walking Dead: Survival Instinct",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 0.63,
+    "Critic_Score": 32.0,
+    "User_Score": 4.0,
+    "Cluster": 2
+  },
+  {
+    "Name": "Crysis 3",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 0.63,
+    "Critic_Score": 76.0,
+    "User_Score": 6.5,
+    "Cluster": 1
+  },
+  {
+    "Name": "NHL 16",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.63,
+    "Critic_Score": 78.0,
+    "User_Score": 5.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Mafia III",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.62,
+    "Critic_Score": 67.0,
+    "User_Score": 4.6,
+    "Cluster": 2
+  },
+  {
+    "Name": "2014 FIFA World Cup Brazil",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 0.61,
+    "Critic_Score": 73.0,
+    "User_Score": 4.3,
+    "Cluster": 1
+  },
+  {
+    "Name": "Plants vs. Zombies: Garden Warfare",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 0.61,
+    "Critic_Score": 75.0,
+    "User_Score": 7.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Tearaway",
+    "Platform": "PSV",
+    "Genre": "Adventure",
+    "Global_Sales": 0.61,
+    "Critic_Score": 87.0,
+    "User_Score": 8.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "Borderlands: The Pre-Sequel",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 0.61,
+    "Critic_Score": 77.0,
+    "User_Score": 6.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Aliens: Colonial Marines",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 0.6,
+    "Critic_Score": 43.0,
+    "User_Score": 3.6,
+    "Cluster": 2
+  },
+  {
+    "Name": "Dead Island: Riptide",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.6,
+    "Critic_Score": 62.0,
+    "User_Score": 5.9,
+    "Cluster": 2
+  },
+  {
+    "Name": "Kinect Sports Rivals",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.6,
+    "Critic_Score": 60.0,
+    "User_Score": 5.1,
+    "Cluster": 2
+  },
+  {
+    "Name": "Dynasty Warriors 8",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.6,
+    "Critic_Score": 68.0,
+    "User_Score": 8.5,
+    "Cluster": 0
+  },
+  {
+    "Name": "Disney Infinity",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.6,
+    "Critic_Score": 71.0,
+    "User_Score": 7.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO The Hobbit",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.6,
+    "Critic_Score": 72.0,
+    "User_Score": 6.6,
+    "Cluster": 1
+  },
+  {
+    "Name": "WWE 2K17",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.6,
+    "Critic_Score": 69.0,
+    "User_Score": 6.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "Just Dance 2014",
+    "Platform": "WiiU",
+    "Genre": "Misc",
+    "Global_Sales": 0.6,
+    "Critic_Score": 72.0,
+    "User_Score": 7.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "NHL 15",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.6,
+    "Critic_Score": 60.0,
+    "User_Score": 3.6,
+    "Cluster": 2
+  },
+  {
+    "Name": "WWE 2K16",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.59,
+    "Critic_Score": 72.0,
+    "User_Score": 5.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Metal Gear Solid V: Ground Zeroes",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.59,
+    "Critic_Score": 66.0,
+    "User_Score": 5.9,
+    "Cluster": 0
+  },
+  {
+    "Name": "Skylanders SWAP Force",
+    "Platform": "WiiU",
+    "Genre": "Platform",
+    "Global_Sales": 0.58,
+    "Critic_Score": 89.0,
+    "User_Score": 6.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Shin Megami Tensei IV",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.58,
+    "Critic_Score": 83.0,
+    "User_Score": 8.3,
+    "Cluster": 0
+  },
+  {
+    "Name": "JoJo's Bizarre Adventure: All Star Battle",
+    "Platform": "PS3",
+    "Genre": "Fighting",
+    "Global_Sales": 0.58,
+    "Critic_Score": 71.0,
+    "User_Score": 8.3,
+    "Cluster": 0
+  },
+  {
+    "Name": "Rayman Legends",
+    "Platform": "PS3",
+    "Genre": "Platform",
+    "Global_Sales": 0.58,
+    "Critic_Score": 91.0,
+    "User_Score": 8.7,
+    "Cluster": 1
+  },
+  {
+    "Name": "Payday 2",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 0.57,
+    "Critic_Score": 75.0,
+    "User_Score": 6.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Titanfall 2",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 0.57,
+    "Critic_Score": 87.0,
+    "User_Score": 8.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "WWE 2K15",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.57,
+    "Critic_Score": 56.0,
+    "User_Score": 5.7,
+    "Cluster": 2
+  },
+  {
+    "Name": "Defiance",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 0.57,
+    "Critic_Score": 60.0,
+    "User_Score": 7.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Just Dance 2016",
+    "Platform": "WiiU",
+    "Genre": "Misc",
+    "Global_Sales": 0.57,
+    "Critic_Score": 73.0,
+    "User_Score": 6.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Titanfall",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 0.56,
+    "Critic_Score": 86.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Quantum Break",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.56,
+    "Critic_Score": 77.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Guitar Hero Live",
+    "Platform": "XOne",
+    "Genre": "Misc",
+    "Global_Sales": 0.55,
+    "Critic_Score": 81.0,
+    "User_Score": 5.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Resident Evil: Revelations 2",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.55,
+    "Critic_Score": 75.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed: Unity",
+    "Platform": "PC",
+    "Genre": "Action",
+    "Global_Sales": 0.55,
+    "Critic_Score": 70.0,
+    "User_Score": 3.0,
+    "Cluster": 2
+  },
+  {
+    "Name": "Sly Cooper: Thieves in Time",
+    "Platform": "PS3",
+    "Genre": "Platform",
+    "Global_Sales": 0.54,
+    "Critic_Score": 75.0,
+    "User_Score": 8.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "NHL 14",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 0.54,
+    "Critic_Score": 80.0,
+    "User_Score": 6.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "F1 2013",
+    "Platform": "PS3",
+    "Genre": "Racing",
+    "Global_Sales": 0.54,
+    "Critic_Score": 77.0,
+    "User_Score": 6.3,
+    "Cluster": 1
+  },
+  {
+    "Name": "Final Fantasy Explorers",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.54,
+    "Critic_Score": 69.0,
+    "User_Score": 7.0,
+    "Cluster": 0
+  },
+  {
+    "Name": "NHL 14",
+    "Platform": "X360",
+    "Genre": "Sports",
+    "Global_Sales": 0.54,
+    "Critic_Score": 81.0,
+    "User_Score": 5.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO Dimensions",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.53,
+    "Critic_Score": 62.0,
+    "User_Score": 6.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dragon's Crown",
+    "Platform": "PS3",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.53,
+    "Critic_Score": 82.0,
+    "User_Score": 8.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Just Dance 2015",
+    "Platform": "XOne",
+    "Genre": "Misc",
+    "Global_Sales": 0.53,
+    "Critic_Score": 70.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "The LEGO Movie Videogame",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.53,
+    "Critic_Score": 69.0,
+    "User_Score": 6.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "Overwatch",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 0.53,
+    "Critic_Score": 91.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "StarCraft II: Legacy of the Void",
+    "Platform": "PC",
+    "Genre": "Strategy",
+    "Global_Sales": 0.53,
+    "Critic_Score": 88.0,
+    "User_Score": 8.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO Jurassic World",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.52,
+    "Critic_Score": 71.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Rory McIlroy PGA Tour",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.52,
+    "Critic_Score": 61.0,
+    "User_Score": 3.7,
+    "Cluster": 2
+  },
+  {
+    "Name": "Lords of the Fallen",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.52,
+    "Critic_Score": 68.0,
+    "User_Score": 6.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Kirby and the Rainbow Curse",
+    "Platform": "WiiU",
+    "Genre": "Platform",
+    "Global_Sales": 0.52,
+    "Critic_Score": 73.0,
+    "User_Score": 8.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Soul Sacrifice",
+    "Platform": "PSV",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.51,
+    "Critic_Score": 77.0,
+    "User_Score": 8.2,
+    "Cluster": 0
+  },
+  {
+    "Name": "The Walking Dead: Survival Instinct",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 0.51,
+    "Critic_Score": 34.0,
+    "User_Score": 3.6,
+    "Cluster": 2
+  },
+  {
+    "Name": "Alien: Isolation",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 0.51,
+    "Critic_Score": 78.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Naruto Shippuden: Ultimate Ninja Storm 3",
+    "Platform": "X360",
+    "Genre": "Fighting",
+    "Global_Sales": 0.51,
+    "Critic_Score": 70.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Sonic Lost World",
+    "Platform": "3DS",
+    "Genre": "Platform",
+    "Global_Sales": 0.49,
+    "Critic_Score": 59.0,
+    "User_Score": 6.5,
+    "Cluster": 2
+  },
+  {
+    "Name": "Plants vs. Zombies: Garden Warfare 2",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 0.49,
+    "Critic_Score": 81.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Pokemon Art Academy ",
+    "Platform": "3DS",
+    "Genre": "Misc",
+    "Global_Sales": 0.49,
+    "Critic_Score": 76.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Bravely Second: End Layer",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.49,
+    "Critic_Score": 81.0,
+    "User_Score": 7.4,
+    "Cluster": 0
+  },
+  {
+    "Name": "Skylanders: SuperChargers",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.48,
+    "Critic_Score": 87.0,
+    "User_Score": 5.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Plants vs. Zombies: Garden Warfare 2",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 0.48,
+    "Critic_Score": 80.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Mario Golf: World Tour",
+    "Platform": "3DS",
+    "Genre": "Sports",
+    "Global_Sales": 0.48,
+    "Critic_Score": 78.0,
+    "User_Score": 8.2,
+    "Cluster": 0
+  },
+  {
+    "Name": "Metal Gear Rising: Revengeance",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 0.48,
+    "Critic_Score": 82.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "NHL 16",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.48,
+    "Critic_Score": 80.0,
+    "User_Score": 6.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Rock Band 4",
+    "Platform": "XOne",
+    "Genre": "Misc",
+    "Global_Sales": 0.47,
+    "Critic_Score": 79.0,
+    "User_Score": 6.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "World of Warcraft: Warlords of Draenor",
+    "Platform": "PC",
+    "Genre": "Action",
+    "Global_Sales": 0.47,
+    "Critic_Score": 87.0,
+    "User_Score": 5.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "EA Sports UFC",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.47,
+    "Critic_Score": 70.0,
+    "User_Score": 6.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "One Piece: Pirate Warriors 3",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.46,
+    "Critic_Score": 74.0,
+    "User_Score": 7.4,
+    "Cluster": 1
+  },
+  {
+    "Name": "Football Manager 2015",
+    "Platform": "PC",
+    "Genre": "Simulation",
+    "Global_Sales": 0.46,
+    "Critic_Score": 80.0,
+    "User_Score": 6.0,
+    "Cluster": 1
+  },
+  {
+    "Name": "Just Dance 2014",
+    "Platform": "XOne",
+    "Genre": "Misc",
+    "Global_Sales": 0.45,
+    "Critic_Score": 71.0,
+    "User_Score": 7.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO The Hobbit",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 0.45,
+    "Critic_Score": 70.0,
+    "User_Score": 8.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Pro Evolution Soccer 2017",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.45,
+    "Critic_Score": 85.0,
+    "User_Score": 7.6,
+    "Cluster": 1
+  },
+  {
+    "Name": "Wolfenstein: The New Order",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 0.45,
+    "Critic_Score": 81.0,
+    "User_Score": 8.2,
+    "Cluster": 1
+  },
+  {
+    "Name": "Deadpool",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.45,
+    "Critic_Score": 61.0,
+    "User_Score": 7.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Watch Dogs",
+    "Platform": "PC",
+    "Genre": "Action",
+    "Global_Sales": 0.45,
+    "Critic_Score": 77.0,
+    "User_Score": 4.7,
+    "Cluster": 1
+  },
+  {
+    "Name": "Mario Tennis Ultra Smash",
+    "Platform": "WiiU",
+    "Genre": "Sports",
+    "Global_Sales": 0.44,
+    "Critic_Score": 58.0,
+    "User_Score": 5.3,
+    "Cluster": 2
+  },
+  {
+    "Name": "Skylanders: Trap Team",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.44,
+    "Critic_Score": 78.0,
+    "User_Score": 5.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "DmC: Devil May Cry",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 0.44,
+    "Critic_Score": 86.0,
+    "User_Score": 5.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Borderlands: The Handsome Collection",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 0.43,
+    "Critic_Score": 80.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Naruto Shippuden: Ultimate Ninja Storm Revolution",
+    "Platform": "PS3",
+    "Genre": "Fighting",
+    "Global_Sales": 0.43,
+    "Critic_Score": 73.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Deadpool",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 0.43,
+    "Critic_Score": 62.0,
+    "User_Score": 7.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Lego Batman 3: Beyond Gotham",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.43,
+    "Critic_Score": 74.0,
+    "User_Score": 7.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "MLB 14: The Show",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 0.43,
+    "Critic_Score": 81.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Payday 2",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 0.43,
+    "Critic_Score": 74.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Hometown Story",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.43,
+    "Critic_Score": 47.0,
+    "User_Score": 6.0,
+    "Cluster": 2
+  },
+  {
+    "Name": "Wolfenstein: The Old Blood",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.43,
+    "Critic_Score": 76.0,
+    "User_Score": 8.0,
+    "Cluster": 1
+  },
+  {
+    "Name": "Rayman Legends",
+    "Platform": "X360",
+    "Genre": "Platform",
+    "Global_Sales": 0.43,
+    "Critic_Score": 90.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "2014 FIFA World Cup Brazil",
+    "Platform": "X360",
+    "Genre": "Sports",
+    "Global_Sales": 0.42,
+    "Critic_Score": 74.0,
+    "User_Score": 4.4,
+    "Cluster": 2
+  },
+  {
+    "Name": "Batman: Arkham Origins Blackgate",
+    "Platform": "PSV",
+    "Genre": "Action",
+    "Global_Sales": 0.42,
+    "Critic_Score": 61.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Trials Fusion",
+    "Platform": "PS4",
+    "Genre": "Racing",
+    "Global_Sales": 0.42,
+    "Critic_Score": 79.0,
+    "User_Score": 7.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Story of Seasons",
+    "Platform": "3DS",
+    "Genre": "Simulation",
+    "Global_Sales": 0.42,
+    "Critic_Score": 76.0,
+    "User_Score": 8.2,
+    "Cluster": 0
+  },
+  {
+    "Name": "Metro: Last Light",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.42,
+    "Critic_Score": 80.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Paper Mario: Color Splash",
+    "Platform": "WiiU",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.42,
+    "Critic_Score": 75.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Attack on Titan: Humanity in Chains",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 0.42,
+    "Critic_Score": 46.0,
+    "User_Score": 4.5,
+    "Cluster": 0
+  },
+  {
+    "Name": "Animal Crossing: Amiibo Festival",
+    "Platform": "WiiU",
+    "Genre": "Misc",
+    "Global_Sales": 0.41,
+    "Critic_Score": 46.0,
+    "User_Score": 4.4,
+    "Cluster": 2
+  },
+  {
+    "Name": "Just Dance 2014",
+    "Platform": "PS4",
+    "Genre": "Misc",
+    "Global_Sales": 0.41,
+    "Critic_Score": 75.0,
+    "User_Score": 5.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "EA Sports UFC 2",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.41,
+    "Critic_Score": 76.0,
+    "User_Score": 6.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Farming Simulator 17",
+    "Platform": "PS4",
+    "Genre": "Simulation",
+    "Global_Sales": 0.41,
+    "Critic_Score": 69.0,
+    "User_Score": 8.7,
+    "Cluster": 1
+  },
+  {
+    "Name": "Terraria",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.41,
+    "Critic_Score": 81.0,
+    "User_Score": 7.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "LEGO Dimensions",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.41,
+    "Critic_Score": 80.0,
+    "User_Score": 6.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "NHL 15",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.41,
+    "Critic_Score": 59.0,
+    "User_Score": 3.2,
+    "Cluster": 2
+  },
+  {
+    "Name": "Tom Clancy's The Division",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 0.41,
+    "Critic_Score": 79.0,
+    "User_Score": 5.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "F1 2014",
+    "Platform": "PS3",
+    "Genre": "Racing",
+    "Global_Sales": 0.41,
+    "Critic_Score": 62.0,
+    "User_Score": 4.1,
+    "Cluster": 2
+  },
+  {
+    "Name": "Call of Duty: Advanced Warfare",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 0.41,
+    "Critic_Score": 78.0,
+    "User_Score": 4.5,
+    "Cluster": 1
+  },
+  {
+    "Name": "Tales of Zestiria",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.4,
+    "Critic_Score": 72.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Metal Gear Solid: The Legacy Collection",
+    "Platform": "PS3",
+    "Genre": "Adventure",
+    "Global_Sales": 0.4,
+    "Critic_Score": 93.0,
+    "User_Score": 9.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Life is Strange",
+    "Platform": "PS4",
+    "Genre": "Adventure",
+    "Global_Sales": 0.4,
+    "Critic_Score": 85.0,
+    "User_Score": 8.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Wonderful 101",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.4,
+    "Critic_Score": 78.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "FIFA 14",
+    "Platform": "PC",
+    "Genre": "Sports",
+    "Global_Sales": 0.4,
+    "Critic_Score": 87.0,
+    "User_Score": 4.6,
+    "Cluster": 1
+  },
+  {
+    "Name": "Dark Souls III",
+    "Platform": "XOne",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.39,
+    "Critic_Score": 87.0,
+    "User_Score": 8.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Until Dawn: Rush of Blood",
+    "Platform": "PS4",
+    "Genre": "Adventure",
+    "Global_Sales": 0.39,
+    "Critic_Score": 72.0,
+    "User_Score": 8.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Sonic Lost World",
+    "Platform": "WiiU",
+    "Genre": "Platform",
+    "Global_Sales": 0.39,
+    "Critic_Score": 63.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Skylanders SWAP Force",
+    "Platform": "PS4",
+    "Genre": "Platform",
+    "Global_Sales": 0.39,
+    "Critic_Score": 79.0,
+    "User_Score": 5.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Just Dance 2015",
+    "Platform": "PS4",
+    "Genre": "Misc",
+    "Global_Sales": 0.39,
+    "Critic_Score": 72.0,
+    "User_Score": 5.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "One Piece: Unlimited World Red",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 0.39,
+    "Critic_Score": 75.0,
+    "User_Score": 7.6,
+    "Cluster": 0
+  },
+  {
+    "Name": "Farming Simulator 2013",
+    "Platform": "X360",
+    "Genre": "Simulation",
+    "Global_Sales": 0.38,
+    "Critic_Score": 33.0,
+    "User_Score": 6.2,
+    "Cluster": 2
+  },
+  {
+    "Name": "Rock Band 4",
+    "Platform": "PS4",
+    "Genre": "Misc",
+    "Global_Sales": 0.38,
+    "Critic_Score": 78.0,
+    "User_Score": 6.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Battlefield 1",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 0.38,
+    "Critic_Score": 88.0,
+    "User_Score": 7.6,
+    "Cluster": 1
+  },
+  {
+    "Name": "Deus Ex: Mankind Divided",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.38,
+    "Critic_Score": 84.0,
+    "User_Score": 7.6,
+    "Cluster": 1
+  },
+  {
+    "Name": "Just Dance 2014",
+    "Platform": "PS3",
+    "Genre": "Misc",
+    "Global_Sales": 0.38,
+    "Critic_Score": 77.0,
+    "User_Score": 7.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Wii Sports Club",
+    "Platform": "WiiU",
+    "Genre": "Sports",
+    "Global_Sales": 0.38,
+    "Critic_Score": 68.0,
+    "User_Score": 7.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "GRID 2",
+    "Platform": "PS3",
+    "Genre": "Racing",
+    "Global_Sales": 0.37,
+    "Critic_Score": 82.0,
+    "User_Score": 6.6,
+    "Cluster": 1
+  },
+  {
+    "Name": "Tiger Woods PGA Tour 14",
+    "Platform": "PS3",
+    "Genre": "Sports",
+    "Global_Sales": 0.37,
+    "Critic_Score": 74.0,
+    "User_Score": 3.8,
+    "Cluster": 2
+  },
+  {
+    "Name": "BioShock The Collection",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 0.37,
+    "Critic_Score": 84.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Theatrhythm Final Fantasy: Curtain Call",
+    "Platform": "3DS",
+    "Genre": "Misc",
+    "Global_Sales": 0.37,
+    "Critic_Score": 83.0,
+    "User_Score": 8.2,
+    "Cluster": 0
+  },
+  {
+    "Name": "Rocket League",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.37,
+    "Critic_Score": 85.0,
+    "User_Score": 8.7,
+    "Cluster": 1
+  },
+  {
+    "Name": "DiRT Rally",
+    "Platform": "PS4",
+    "Genre": "Racing",
+    "Global_Sales": 0.37,
+    "Critic_Score": 85.0,
+    "User_Score": 8.1,
+    "Cluster": 1
+  },
+  {
+    "Name": "Sid Meier's Civilization: Beyond Earth",
+    "Platform": "PC",
+    "Genre": "Strategy",
+    "Global_Sales": 0.36,
+    "Critic_Score": 81.0,
+    "User_Score": 5.5,
+    "Cluster": 1
+  },
+  {
+    "Name": "Star Fox: Zero",
+    "Platform": "WiiU",
+    "Genre": "Shooter",
+    "Global_Sales": 0.36,
+    "Critic_Score": 69.0,
+    "User_Score": 7.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Sword Art Online: Lost Song",
+    "Platform": "PSV",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.36,
+    "Critic_Score": 70.0,
+    "User_Score": 7.1,
+    "Cluster": 0
+  },
+  {
+    "Name": "Just Dance 2016",
+    "Platform": "PS4",
+    "Genre": "Misc",
+    "Global_Sales": 0.36,
+    "Critic_Score": 73.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Fossil Fighters: Frontier",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.36,
+    "Critic_Score": 57.0,
+    "User_Score": 4.8,
+    "Cluster": 0
+  },
+  {
+    "Name": "Watch Dogs 2",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.36,
+    "Critic_Score": 83.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Dragon's Crown",
+    "Platform": "PSV",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.35,
+    "Critic_Score": 78.0,
+    "User_Score": 8.4,
+    "Cluster": 0
+  },
+  {
+    "Name": "Earth Defense Force 2025",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 0.35,
+    "Critic_Score": 69.0,
+    "User_Score": 7.5,
+    "Cluster": 0
+  },
+  {
+    "Name": "Middle-Earth: Shadow of Mordor",
+    "Platform": "PC",
+    "Genre": "Action",
+    "Global_Sales": 0.35,
+    "Critic_Score": 84.0,
+    "User_Score": 8.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Tiger Woods PGA Tour 14",
+    "Platform": "X360",
+    "Genre": "Sports",
+    "Global_Sales": 0.35,
+    "Critic_Score": 77.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Homefront: The Revolution",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 0.35,
+    "Critic_Score": 48.0,
+    "User_Score": 3.8,
+    "Cluster": 2
+  },
+  {
+    "Name": "One Piece: Burning Blood",
+    "Platform": "PS4",
+    "Genre": "Fighting",
+    "Global_Sales": 0.35,
+    "Critic_Score": 66.0,
+    "User_Score": 7.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Toukiden: The Age of Demons",
+    "Platform": "PSV",
+    "Genre": "Action",
+    "Global_Sales": 0.35,
+    "Critic_Score": 71.0,
+    "User_Score": 8.0,
+    "Cluster": 0
+  },
+  {
+    "Name": "Metro: Last Light",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 0.35,
+    "Critic_Score": 80.0,
+    "User_Score": 8.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Football Manager 2016",
+    "Platform": "PC",
+    "Genre": "Simulation",
+    "Global_Sales": 0.35,
+    "Critic_Score": 81.0,
+    "User_Score": 6.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "Defiance",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 0.35,
+    "Critic_Score": 59.0,
+    "User_Score": 6.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "LEGO Marvel's Avengers",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.35,
+    "Critic_Score": 71.0,
+    "User_Score": 5.1,
+    "Cluster": 2
+  },
+  {
+    "Name": "Mirror's Edge Catalyst",
+    "Platform": "PS4",
+    "Genre": "Platform",
+    "Global_Sales": 0.35,
+    "Critic_Score": 69.0,
+    "User_Score": 4.7,
+    "Cluster": 2
+  },
+  {
+    "Name": "Sniper Elite 3",
+    "Platform": "XOne",
+    "Genre": "Shooter",
+    "Global_Sales": 0.35,
+    "Critic_Score": 63.0,
+    "User_Score": 6.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "TrackMania Turbo",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.35,
+    "Critic_Score": 81.0,
+    "User_Score": 7.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "Call of Duty: Ghosts",
+    "Platform": "WiiU",
+    "Genre": "Shooter",
+    "Global_Sales": 0.34,
+    "Critic_Score": 69.0,
+    "User_Score": 3.4,
+    "Cluster": 2
+  },
+  {
+    "Name": "Company of Heroes 2",
+    "Platform": "PC",
+    "Genre": "Strategy",
+    "Global_Sales": 0.34,
+    "Critic_Score": 80.0,
+    "User_Score": 2.1,
+    "Cluster": 1
+  },
+  {
+    "Name": "Rayman Legends",
+    "Platform": "XOne",
+    "Genre": "Platform",
+    "Global_Sales": 0.34,
+    "Critic_Score": 91.0,
+    "User_Score": 7.9,
+    "Cluster": 3
+  },
+  {
+    "Name": "World of Final Fantasy",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.33,
+    "Critic_Score": 77.0,
+    "User_Score": 8.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "NHL 17",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.33,
+    "Critic_Score": 78.0,
+    "User_Score": 5.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Sniper: Ghost Warrior 2",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 0.33,
+    "Critic_Score": 52.0,
+    "User_Score": 6.0,
+    "Cluster": 2
+  },
+  {
+    "Name": "Dragon Ball Z: Extreme Butoden",
+    "Platform": "3DS",
+    "Genre": "Fighting",
+    "Global_Sales": 0.33,
+    "Critic_Score": 61.0,
+    "User_Score": 6.6,
+    "Cluster": 0
+  },
+  {
+    "Name": "Danganronpa: Trigger Happy Havoc",
+    "Platform": "PSV",
+    "Genre": "Misc",
+    "Global_Sales": 0.33,
+    "Critic_Score": 80.0,
+    "User_Score": 8.1,
+    "Cluster": 0
+  },
+  {
+    "Name": "Hatsune Miku: Project Mirai DX",
+    "Platform": "3DS",
+    "Genre": "Misc",
+    "Global_Sales": 0.32,
+    "Critic_Score": 80.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Just Dance 2016",
+    "Platform": "XOne",
+    "Genre": "Misc",
+    "Global_Sales": 0.32,
+    "Critic_Score": 66.0,
+    "User_Score": 6.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Remember Me",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.32,
+    "Critic_Score": 72.0,
+    "User_Score": 7.4,
+    "Cluster": 1
+  },
+  {
+    "Name": "Dragon Ball: XenoVerse",
+    "Platform": "XOne",
+    "Genre": "Fighting",
+    "Global_Sales": 0.32,
+    "Critic_Score": 67.0,
+    "User_Score": 7.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "World of Warcraft: Legion",
+    "Platform": "PC",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.32,
+    "Critic_Score": 88.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Hatsune Miku: Project Diva F 2nd",
+    "Platform": "PSV",
+    "Genre": "Misc",
+    "Global_Sales": 0.32,
+    "Critic_Score": 81.0,
+    "User_Score": 8.4,
+    "Cluster": 0
+  },
+  {
+    "Name": "Persona 4: Dancing All Night",
+    "Platform": "PSV",
+    "Genre": "Misc",
+    "Global_Sales": 0.32,
+    "Critic_Score": 76.0,
+    "User_Score": 8.6,
+    "Cluster": 0
+  },
+  {
+    "Name": "Murdered: Soul Suspect",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.32,
+    "Critic_Score": 59.0,
+    "User_Score": 6.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "Batman: Arkham Origins",
+    "Platform": "PC",
+    "Genre": "Action",
+    "Global_Sales": 0.31,
+    "Critic_Score": 74.0,
+    "User_Score": 7.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Drakengard 3",
+    "Platform": "PS3",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.31,
+    "Critic_Score": 61.0,
+    "User_Score": 7.7,
+    "Cluster": 0
+  },
+  {
+    "Name": "Batman: Arkham Origins",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.31,
+    "Critic_Score": 68.0,
+    "User_Score": 7.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Sonic Boom: Rise of Lyric",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.31,
+    "Critic_Score": 32.0,
+    "User_Score": 3.6,
+    "Cluster": 2
+  },
+  {
+    "Name": "Tropico 5",
+    "Platform": "PS4",
+    "Genre": "Simulation",
+    "Global_Sales": 0.31,
+    "Critic_Score": 76.0,
+    "User_Score": 7.1,
+    "Cluster": 1
+  },
+  {
+    "Name": "LEGO Legends of Chima: Laval's Journey",
+    "Platform": "3DS",
+    "Genre": "Adventure",
+    "Global_Sales": 0.31,
+    "Critic_Score": 65.0,
+    "User_Score": 3.6,
+    "Cluster": 2
+  },
+  {
+    "Name": "Skylanders: SuperChargers",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.31,
+    "Critic_Score": 81.0,
+    "User_Score": 3.3,
+    "Cluster": 2
+  },
+  {
+    "Name": "Dragon Ball Z: Battle of Z",
+    "Platform": "PS3",
+    "Genre": "Fighting",
+    "Global_Sales": 0.31,
+    "Critic_Score": 54.0,
+    "User_Score": 5.3,
+    "Cluster": 2
+  },
+  {
+    "Name": "BlazBlue: Chrono Phantasma",
+    "Platform": "PS3",
+    "Genre": "Fighting",
+    "Global_Sales": 0.3,
+    "Critic_Score": 83.0,
+    "User_Score": 8.3,
+    "Cluster": 0
+  },
+  {
+    "Name": "Mario Party: Star Rush",
+    "Platform": "3DS",
+    "Genre": "Misc",
+    "Global_Sales": 0.3,
+    "Critic_Score": 68.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Naruto Shippuden: Ultimate Ninja Storm 4",
+    "Platform": "XOne",
+    "Genre": "Fighting",
+    "Global_Sales": 0.3,
+    "Critic_Score": 81.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Batman: Arkham VR",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.3,
+    "Critic_Score": 75.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "F1 2013",
+    "Platform": "X360",
+    "Genre": "Racing",
+    "Global_Sales": 0.3,
+    "Critic_Score": 79.0,
+    "User_Score": 6.6,
+    "Cluster": 1
+  },
+  {
+    "Name": "Sword Art Online: Hollow Fragment",
+    "Platform": "PSV",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.3,
+    "Critic_Score": 67.0,
+    "User_Score": 7.6,
+    "Cluster": 0
+  },
+  {
+    "Name": "Lego Star Wars: The Force Awakens",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.3,
+    "Critic_Score": 76.0,
+    "User_Score": 7.0,
+    "Cluster": 3
+  },
+  {
+    "Name": "Deadpool",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.29,
+    "Critic_Score": 60.0,
+    "User_Score": 5.7,
+    "Cluster": 2
+  },
+  {
+    "Name": "UEFA Euro 2016",
+    "Platform": "PS4",
+    "Genre": "Sports",
+    "Global_Sales": 0.29,
+    "Critic_Score": 72.0,
+    "User_Score": 6.6,
+    "Cluster": 1
+  },
+  {
+    "Name": "Borderlands: The Pre-Sequel",
+    "Platform": "PC",
+    "Genre": "Shooter",
+    "Global_Sales": 0.29,
+    "Critic_Score": 75.0,
+    "User_Score": 6.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Sonic Boom: Shattered Crystal",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 0.29,
+    "Critic_Score": 47.0,
+    "User_Score": 6.3,
+    "Cluster": 2
+  },
+  {
+    "Name": "Angry Birds Star Wars",
+    "Platform": "PS3",
+    "Genre": "Strategy",
+    "Global_Sales": 0.29,
+    "Critic_Score": 49.0,
+    "User_Score": 3.6,
+    "Cluster": 2
+  },
+  {
+    "Name": "Metal Gear Solid V: Ground Zeroes",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.29,
+    "Critic_Score": 76.0,
+    "User_Score": 5.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Disgaea 5: Alliance of Vengeance",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.29,
+    "Critic_Score": 80.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Assassin's Creed IV: Black Flag",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.29,
+    "Critic_Score": 86.0,
+    "User_Score": 7.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "FIFA 15",
+    "Platform": "PC",
+    "Genre": "Sports",
+    "Global_Sales": 0.28,
+    "Critic_Score": 82.0,
+    "User_Score": 4.2,
+    "Cluster": 1
+  },
+  {
+    "Name": "Hatsune Miku: Project Diva f",
+    "Platform": "PS3",
+    "Genre": "Misc",
+    "Global_Sales": 0.28,
+    "Critic_Score": 73.0,
+    "User_Score": 8.4,
+    "Cluster": 0
+  },
+  {
+    "Name": "NES Remix",
+    "Platform": "WiiU",
+    "Genre": "Action",
+    "Global_Sales": 0.28,
+    "Critic_Score": 71.0,
+    "User_Score": 7.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Angry Birds Star Wars",
+    "Platform": "X360",
+    "Genre": "Strategy",
+    "Global_Sales": 0.28,
+    "Critic_Score": 59.0,
+    "User_Score": 5.6,
+    "Cluster": 2
+  },
+  {
+    "Name": "One Piece: Unlimited World Red",
+    "Platform": "PS3",
+    "Genre": "Action",
+    "Global_Sales": 0.28,
+    "Critic_Score": 71.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Army of Two: The Devil's Cartel",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 0.28,
+    "Critic_Score": 58.0,
+    "User_Score": 6.7,
+    "Cluster": 2
+  },
+  {
+    "Name": "GRID 2",
+    "Platform": "X360",
+    "Genre": "Racing",
+    "Global_Sales": 0.27,
+    "Critic_Score": 78.0,
+    "User_Score": 5.8,
+    "Cluster": 1
+  },
+  {
+    "Name": "The Evil Within",
+    "Platform": "PC",
+    "Genre": "Action",
+    "Global_Sales": 0.27,
+    "Critic_Score": 68.0,
+    "User_Score": 5.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "Rory McIlroy PGA Tour",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.27,
+    "Critic_Score": 60.0,
+    "User_Score": 4.3,
+    "Cluster": 2
+  },
+  {
+    "Name": "LEGO The Hobbit",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.27,
+    "Critic_Score": 69.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Lightning Returns: Final Fantasy XIII",
+    "Platform": "X360",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.27,
+    "Critic_Score": 69.0,
+    "User_Score": 6.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Batman: Arkham Origins Blackgate",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 0.27,
+    "Critic_Score": 68.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Ultimate NES Remix",
+    "Platform": "3DS",
+    "Genre": "Action",
+    "Global_Sales": 0.27,
+    "Critic_Score": 69.0,
+    "User_Score": 7.6,
+    "Cluster": 3
+  },
+  {
+    "Name": "Batman: Return to Arkham",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.26,
+    "Critic_Score": 73.0,
+    "User_Score": 8.5,
+    "Cluster": 1
+  },
+  {
+    "Name": "Tearaway Unfolded",
+    "Platform": "PS4",
+    "Genre": "Platform",
+    "Global_Sales": 0.26,
+    "Critic_Score": 81.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Etrian Odyssey Untold: The Millennium Girl",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.26,
+    "Critic_Score": 80.0,
+    "User_Score": 8.2,
+    "Cluster": 0
+  },
+  {
+    "Name": "WWE 2K17",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.26,
+    "Critic_Score": 68.0,
+    "User_Score": 5.5,
+    "Cluster": 2
+  },
+  {
+    "Name": "Project CARS",
+    "Platform": "XOne",
+    "Genre": "Racing",
+    "Global_Sales": 0.26,
+    "Critic_Score": 81.0,
+    "User_Score": 5.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Battleborn",
+    "Platform": "PS4",
+    "Genre": "Shooter",
+    "Global_Sales": 0.26,
+    "Critic_Score": 68.0,
+    "User_Score": 6.8,
+    "Cluster": 3
+  },
+  {
+    "Name": "Resident Evil: Revelations",
+    "Platform": "X360",
+    "Genre": "Action",
+    "Global_Sales": 0.26,
+    "Critic_Score": 75.0,
+    "User_Score": 7.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Army of Two: The Devil's Cartel",
+    "Platform": "X360",
+    "Genre": "Shooter",
+    "Global_Sales": 0.26,
+    "Critic_Score": 54.0,
+    "User_Score": 6.2,
+    "Cluster": 2
+  },
+  {
+    "Name": "Puppeteer",
+    "Platform": "PS3",
+    "Genre": "Platform",
+    "Global_Sales": 0.26,
+    "Critic_Score": 80.0,
+    "User_Score": 8.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "The Legend of Legacy",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.25,
+    "Critic_Score": 67.0,
+    "User_Score": 7.1,
+    "Cluster": 0
+  },
+  {
+    "Name": "PlayStation VR Worlds",
+    "Platform": "PS4",
+    "Genre": "Misc",
+    "Global_Sales": 0.25,
+    "Critic_Score": 59.0,
+    "User_Score": 7.1,
+    "Cluster": 1
+  },
+  {
+    "Name": "Anno 2205",
+    "Platform": "PC",
+    "Genre": "Strategy",
+    "Global_Sales": 0.25,
+    "Critic_Score": 72.0,
+    "User_Score": 5.9,
+    "Cluster": 1
+  },
+  {
+    "Name": "Hatsune Miku: Project Diva F 2nd",
+    "Platform": "PS3",
+    "Genre": "Misc",
+    "Global_Sales": 0.25,
+    "Critic_Score": 78.0,
+    "User_Score": 8.6,
+    "Cluster": 0
+  },
+  {
+    "Name": "Need for Speed Rivals",
+    "Platform": "PC",
+    "Genre": "Racing",
+    "Global_Sales": 0.25,
+    "Critic_Score": 76.0,
+    "User_Score": 3.3,
+    "Cluster": 1
+  },
+  {
+    "Name": "The Bureau: XCOM Declassified",
+    "Platform": "PS3",
+    "Genre": "Shooter",
+    "Global_Sales": 0.25,
+    "Critic_Score": 69.0,
+    "User_Score": 6.7,
+    "Cluster": 1
+  },
+  {
+    "Name": "Sid Meier's Civilization VI",
+    "Platform": "PC",
+    "Genre": "Strategy",
+    "Global_Sales": 0.25,
+    "Critic_Score": 88.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "Sword Art Online: Lost Song",
+    "Platform": "PS4",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.25,
+    "Critic_Score": 63.0,
+    "User_Score": 6.3,
+    "Cluster": 2
+  },
+  {
+    "Name": "F1 2015",
+    "Platform": "XOne",
+    "Genre": "Racing",
+    "Global_Sales": 0.25,
+    "Critic_Score": 64.0,
+    "User_Score": 5.3,
+    "Cluster": 2
+  },
+  {
+    "Name": "Sly Cooper: Thieves in Time",
+    "Platform": "PSV",
+    "Genre": "Platform",
+    "Global_Sales": 0.25,
+    "Critic_Score": 75.0,
+    "User_Score": 8.2,
+    "Cluster": 3
+  },
+  {
+    "Name": "Stella Glow",
+    "Platform": "3DS",
+    "Genre": "Role-Playing",
+    "Global_Sales": 0.24,
+    "Critic_Score": 79.0,
+    "User_Score": 8.7,
+    "Cluster": 3
+  },
+  {
+    "Name": "Trials Fusion",
+    "Platform": "XOne",
+    "Genre": "Racing",
+    "Global_Sales": 0.24,
+    "Critic_Score": 80.0,
+    "User_Score": 7.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Onechanbara Z2: Chaos",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.24,
+    "Critic_Score": 57.0,
+    "User_Score": 6.5,
+    "Cluster": 2
+  },
+  {
+    "Name": "Skylanders SWAP Force",
+    "Platform": "3DS",
+    "Genre": "Platform",
+    "Global_Sales": 0.24,
+    "Critic_Score": 68.0,
+    "User_Score": 6.4,
+    "Cluster": 3
+  },
+  {
+    "Name": "Skylanders: SuperChargers",
+    "Platform": "XOne",
+    "Genre": "Action",
+    "Global_Sales": 0.24,
+    "Critic_Score": 76.0,
+    "User_Score": 5.5,
+    "Cluster": 3
+  },
+  {
+    "Name": "Samurai Warriors 4",
+    "Platform": "PS4",
+    "Genre": "Action",
+    "Global_Sales": 0.24,
+    "Critic_Score": 76.0,
+    "User_Score": 8.1,
+    "Cluster": 3
+  },
+  {
+    "Name": "Total War: Attila",
+    "Platform": "PC",
+    "Genre": "Strategy",
+    "Global_Sales": 0.24,
+    "Critic_Score": 80.0,
+    "User_Score": 7.3,
+    "Cluster": 3
+  },
+  {
+    "Name": "NHL 17",
+    "Platform": "XOne",
+    "Genre": "Sports",
+    "Global_Sales": 0.24,
+    "Critic_Score": 77.0,
+    "User_Score": 4.0,
+    "Cluster": 2
+  }
+]
